@@ -19,4 +19,10 @@ The Course Recommendation System is a web application built using FastAPI that s
 - **Scikit-Learn**: Library for machine learning and statistical modeling.
 - **Uvicorn**: ASGI server for running the FastAPI application.
 
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Sangeerths/Course-Recommendation-System.git
+
 
