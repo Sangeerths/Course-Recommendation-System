@@ -37,7 +37,3 @@ The Course Recommendation System is a web application built using FastAPI that s
 4.Run the application:
 ```bash
 uvicorn main:app --reload
-
-
-
-
