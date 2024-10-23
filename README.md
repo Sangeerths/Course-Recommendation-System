@@ -30,10 +30,11 @@ The Course Recommendation System is a web application built using FastAPI that s
    ```bash
    cd Course-Recommendation-System
 
-3.Install required packages:
-                  ```bash
-      
-          pip install fastapi uvicorn pandas scikit-learn
-4.Run the application:
-```bash
+ 3.Install required packages:
+    ```bash      
+         
+         pip install fastapi uvicorn pandas scikit-learn
+
+ 4.Run the application:
+   ```bash
 uvicorn main:app --reload
